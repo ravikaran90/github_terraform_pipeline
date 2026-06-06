@@ -1,3 +1,3 @@
 terraform "oci" {
-    oci =5.10
+    oci >=5.10
 }
